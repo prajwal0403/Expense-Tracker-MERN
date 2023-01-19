@@ -14,6 +14,9 @@ Use npm start to start the project
 cd client
 npm start
 ```
+```bash
+node server.js
+```
 
 ## features
 
