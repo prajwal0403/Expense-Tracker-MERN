@@ -30,7 +30,6 @@ node server.js
 ## tech-stack 
 #### Mongodb
 #### React
-#### Redux
 #### nodejs
 #### npm
 #### Express
